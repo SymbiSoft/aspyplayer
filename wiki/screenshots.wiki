@@ -1,6 +1,25 @@
-#summary One-sentence summary of this page.
-
 = Screenshots =
 
 Beta 0 release screenshots
+
+*First screen*
+
+http://farm4.static.flickr.com/3039/2295936187_c30256469d_o.jpg
+
+*Main menu*
+
+http://farm4.static.flickr.com/3132/2296730800_93c236ec78_o.jpg
+
+*Last.fm options*
+
+http://farm4.static.flickr.com/3016/2296730852_61fe885420_o.jpg
+
+*Playing*
+
+http://farm4.static.flickr.com/3050/2295936297_6184fce610_o.jpg
+
+*Selecting a music directory*
+
+http://farm4.static.flickr.com/3100/2295936253_4935edea8e_o.jpg
+
 
