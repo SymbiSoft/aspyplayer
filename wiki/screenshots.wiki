@@ -1,6 +1,18 @@
 = Screenshots =
 
-Beta 0 release screenshots
+*Beta 1 release screenshots*
+
+http://farm3.static.flickr.com/2387/2303582756_9a07d88ef3_m.jpg http://farm4.static.flickr.com/3140/2302784805_0fcafe3e04_m.jpg
+
+http://farm3.static.flickr.com/2324/2303582856_5884e1374b_m.jpg http://farm3.static.flickr.com/2152/2302784939_3fa207719b_m.jpg
+
+http://farm3.static.flickr.com/2290/2303582980_b9b95b6e21_m.jpg http://farm3.static.flickr.com/2015/2303583066_e77001247f_m.jpg
+
+http://farm3.static.flickr.com/2102/2303583106_8916b6e405_m.jpg http://farm4.static.flickr.com/3176/2302785125_916e38b17f_m.jpg
+
+http://farm4.static.flickr.com/3071/2302785205_2c6bccda5e_m.jpg
+
+*Beta 0 release screenshots*
 
 *First screen*
 
@@ -21,5 +33,3 @@ http://farm4.static.flickr.com/3050/2295936297_6184fce610_o.jpg
 *Selecting a music directory*
 
 http://farm4.static.flickr.com/3100/2295936253_4935edea8e_o.jpg
-
-
