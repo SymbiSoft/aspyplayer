@@ -1,0 +1,45 @@
+# Screenshots #
+
+**Beta 3 release screenshots**
+
+![http://farm3.static.flickr.com/2033/2351107886_58070783f7_m.jpg](http://farm3.static.flickr.com/2033/2351107886_58070783f7_m.jpg) ![http://farm4.static.flickr.com/3128/2350274197_ac92239a5d_m.jpg](http://farm4.static.flickr.com/3128/2350274197_ac92239a5d_m.jpg)
+
+![http://farm3.static.flickr.com/2258/2350274269_984860b214_m.jpg](http://farm3.static.flickr.com/2258/2350274269_984860b214_m.jpg) ![http://farm3.static.flickr.com/2121/2351108084_80ce194ce0_m.jpg](http://farm3.static.flickr.com/2121/2351108084_80ce194ce0_m.jpg)
+
+![http://farm4.static.flickr.com/3057/2351108142_33025b3f5a_m.jpg](http://farm4.static.flickr.com/3057/2351108142_33025b3f5a_m.jpg) ![http://farm3.static.flickr.com/2096/2351108240_c51b84714c_m.jpg](http://farm3.static.flickr.com/2096/2351108240_c51b84714c_m.jpg)
+
+![http://farm4.static.flickr.com/3012/2350274553_50935fa92d_m.jpg](http://farm4.static.flickr.com/3012/2350274553_50935fa92d_m.jpg)
+
+**Beta 1 release screenshots**
+
+![http://farm3.static.flickr.com/2387/2303582756_9a07d88ef3_m.jpg](http://farm3.static.flickr.com/2387/2303582756_9a07d88ef3_m.jpg) ![http://farm4.static.flickr.com/3140/2302784805_0fcafe3e04_m.jpg](http://farm4.static.flickr.com/3140/2302784805_0fcafe3e04_m.jpg)
+
+![http://farm3.static.flickr.com/2324/2303582856_5884e1374b_m.jpg](http://farm3.static.flickr.com/2324/2303582856_5884e1374b_m.jpg) ![http://farm3.static.flickr.com/2152/2302784939_3fa207719b_m.jpg](http://farm3.static.flickr.com/2152/2302784939_3fa207719b_m.jpg)
+
+![http://farm3.static.flickr.com/2290/2303582980_b9b95b6e21_m.jpg](http://farm3.static.flickr.com/2290/2303582980_b9b95b6e21_m.jpg) ![http://farm3.static.flickr.com/2015/2303583066_e77001247f_m.jpg](http://farm3.static.flickr.com/2015/2303583066_e77001247f_m.jpg)
+
+![http://farm3.static.flickr.com/2102/2303583106_8916b6e405_m.jpg](http://farm3.static.flickr.com/2102/2303583106_8916b6e405_m.jpg) ![http://farm4.static.flickr.com/3176/2302785125_916e38b17f_m.jpg](http://farm4.static.flickr.com/3176/2302785125_916e38b17f_m.jpg)
+
+![http://farm4.static.flickr.com/3071/2302785205_2c6bccda5e_m.jpg](http://farm4.static.flickr.com/3071/2302785205_2c6bccda5e_m.jpg)
+
+**Beta 0 release screenshots**
+
+**First screen**
+
+![http://farm4.static.flickr.com/3039/2295936187_c30256469d_o.jpg](http://farm4.static.flickr.com/3039/2295936187_c30256469d_o.jpg)
+
+**Main menu**
+
+![http://farm4.static.flickr.com/3132/2296730800_93c236ec78_o.jpg](http://farm4.static.flickr.com/3132/2296730800_93c236ec78_o.jpg)
+
+**Last.fm options**
+
+![http://farm4.static.flickr.com/3016/2296730852_61fe885420_o.jpg](http://farm4.static.flickr.com/3016/2296730852_61fe885420_o.jpg)
+
+**Playing**
+
+![http://farm4.static.flickr.com/3050/2295936297_6184fce610_o.jpg](http://farm4.static.flickr.com/3050/2295936297_6184fce610_o.jpg)
+
+**Selecting a music directory**
+
+![http://farm4.static.flickr.com/3100/2295936253_4935edea8e_o.jpg](http://farm4.static.flickr.com/3100/2295936253_4935edea8e_o.jpg)
